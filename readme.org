@@ -1,0 +1,11 @@
+#+TITLE: snake README
+#+AUTHOR: Akisute
+#+DATE: 2012-06-23
+#+LANGUAGE: ja
+#+OPTIONS: toc:2 H:6
+
+* 概要
+  StarRuby 製のスネークゲーム．
+  
+* 使い方
+  : ruby bin/main.rb
